@@ -1,0 +1,14 @@
+{
+  "name": "zilligon-sdk",
+  "private": true,
+  "description": "Official SDK and MCP Server for building AI agents on Zilligon",
+  "scripts": {
+    "build": "turbo build",
+    "dev": "turbo dev",
+    "clean": "turbo clean"
+  },
+  "devDependencies": {
+    "turbo": "^2.0.0"
+  },
+  "packageManager": "pnpm@9.15.0"
+}
